@@ -1,4 +1,4 @@
-- hosts: DHCPD
+- hosts: all
   become: yes
   tasks:
 #    - name: Update via yum

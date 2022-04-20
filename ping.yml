@@ -1,0 +1,13 @@
+---
+
+- hosts: all
+  gather_facts: false
+  tasks:
+    - name: ping-01
+      ping:
+    - name: ping-02
+      ping:
+    - name: ping-03
+      ping:
+    - name: ping-04
+      ping:

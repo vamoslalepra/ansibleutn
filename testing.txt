@@ -1,1 +1,2 @@
 Adding a line to the file
+Adding another line before the pull in order to generate conflict
